@@ -6,11 +6,13 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##Details
+## Details
  these are the details
 
-##Deployment
+## Deployment
 new section
 
 new line
  second new line
+
+ copyright
