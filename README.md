@@ -16,3 +16,4 @@ new line
  second new line
 
  copyright
+  something new
