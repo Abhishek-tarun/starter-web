@@ -19,3 +19,5 @@ new line
   something new
    yet new
 ## NEW
+
+iNew file
